@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95a96d75-9e58-4525-a0d0-2714c56ede91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/Emitter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/Observable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/ObservableSource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/Observer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/AbstractObservableWithUpstream.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/BasicFuseableObserver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/HasUpstreamObservable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/ObservableCreate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/ObservableDelay.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/ObservableFilter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/ObservableFlatMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/ObservableMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/ObservableObserveOn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/ObservableRepeat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/operators/ObservableSubscribeOn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/schedulers/Scheduler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/schedulers/SchedulerDefault.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/schedulers/SchedulerIO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kim/bifrost/rxjava/schedulers/Schedulers.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="myRxjava" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ab53H0qmGNcIkY3dA0MSqRWKYh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/project/study/myRxjava",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="kim.bifrost.rxjava.disposable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kim.bifrost.rxjava.TestKt" />
+      <module name="myRxjava.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TestKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a96d75-9e58-4525-a0d0-2714c56ede91" name="Changes" comment="" />
+      <created>1655265246092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655265246092</updated>
+      <workItem from="1655265248103" duration="3260000" />
+      <workItem from="1655271363689" duration="3610000" />
+      <workItem from="1655310563707" duration="1571000" />
+      <workItem from="1655348770822" duration="454000" />
+      <workItem from="1655349252540" duration="6699000" />
+      <workItem from="1655362005776" duration="20421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
